@@ -25,7 +25,7 @@ dependencies:
   # plugin to show a scrollable number picker for inserting tables
   numberpicker:
       git: 
-        url: https://github.com/MarcinusX/NumberPicker
+        url: https://github.com/MarcinusX/NumberPicker.git
         ref: 576b84919720191b4cc4e5802b0e33e37f863f03
   # plugin to allow dropdowns and dialogs to be interactable when displaying over the editor
   # related to https://github.com/flutter/flutter/issues/54027
